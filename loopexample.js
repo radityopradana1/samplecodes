@@ -11,6 +11,6 @@ for (let i = 0; i < array.length; i++) {
 
     counter = counter + array[i]
 
+    console.log(counter)
 }
 
-console.log(counter)
