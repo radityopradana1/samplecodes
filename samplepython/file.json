@@ -1,0 +1,10 @@
+{
+    "name": "John",
+    "age": 50,
+    "is_married": false,
+    "profession": null,
+    "hobbies": [
+        "travelling",
+        "photography"
+    ]
+}
